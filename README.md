@@ -6,6 +6,7 @@ This repository provides links to other repositories covering subjects within my
 
 - [Programming](https://github.com/Camper94/SICP)
 - [Computer Architecture](Data_Structures/README.md)
+- [Mathematics](https://github.com/Camper94/Mathematics)
 
 
 ## Technologies
