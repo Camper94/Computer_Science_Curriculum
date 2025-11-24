@@ -1,2 +1,10 @@
-# Computer_Science_Curriculum
-This repository details a range of computer science subjects that I have taken the time to investigate and document.
+# Computer Science Curriculum
+
+This repository provides links to other repositories covering subjects within my computer science curriculum. It functions as a personal learning roadmap, helping me monitor my foundational understanding of essential computer science topics.
+
+## Topics
+
+- [Programming](https://github.com/Camper94/SICP)
+- [Computer Architecture](Data_Structures/README.md)
+
+
