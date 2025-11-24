@@ -10,4 +10,4 @@ This repository provides links to other repositories covering subjects within my
 
 ## Technologies
 
-- [Django FrameWork v5.1]([https://github.com/Camper94/SICP](https://github.com/Camper94/Djangov5.1-tutorials))
+- [Django FrameWork v5.1](https://github.com/Camper94/Djangov5.1-tutorials)
